@@ -13,3 +13,4 @@ git log
 git reflog
 git reset --hard HEAD^ or HEAD~100
 git reset --hard commit_ID
+git checkout -- filename   git reset HEAD filename
