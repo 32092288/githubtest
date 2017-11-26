@@ -8,6 +8,7 @@ git add filename
 git commit -m "  "
 git status
 git diff filename
+git diff HEAD --filename
 git log
 git reflog
 git reset --hard HEAD^ or HEAD~100
