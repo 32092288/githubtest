@@ -39,4 +39,8 @@ git branch -d dev
 
 git stash
 
+git stash list
 
+git stash pop 
+
+git stash apply stash@{0}  // after this CMD, git stash drop nlist
