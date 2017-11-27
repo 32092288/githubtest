@@ -30,5 +30,10 @@ git checkout -b dev  //step:1 git branch dev 2 git checkout dev 3 switch to bran
 git branch   //view current branch, list all branch , current branch with '*'
 
 
+git checkout master
+git checkout dev
 
+git merge dev
+
+git branch -d dev
 
