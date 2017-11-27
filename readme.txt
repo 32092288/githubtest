@@ -17,3 +17,18 @@ git checkout -- filename   git reset HEAD filename
 git rm -- filename
 
 shh-keygen -t rsa -C "32092288@qq.com"
+
+git remote add origin https://github.com/32092288/githubtest.git  //https need to input username & password
+
+git push -u origin master
+git push origin master
+
+git clone git@github.com:32092288/gitskills.git   //ssh no need to input username & password
+
+git checkout -b dev  //step:1 git branch dev 2 git checkout dev 3 switch to branch 'dev'
+
+git branch   //view current branch, list all branch , current branch with '*'
+
+
+
+
