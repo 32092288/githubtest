@@ -37,3 +37,4 @@ git merge dev
 
 git branch -d dev
 
+creating a new branch is quick & simple
