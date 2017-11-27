@@ -15,3 +15,5 @@ git reset --hard HEAD^ or HEAD~100
 git reset --hard commit_ID
 git checkout -- filename   git reset HEAD filename
 git rm -- filename
+
+shh-keygen -t rsa -C "32092288@qq.com"
