@@ -37,5 +37,10 @@ git merge dev
 
 git branch -d dev
 
-creating a new branch is quick & simple
+git stash
 
+git stash list
+
+git stash pop 
+
+git stash apply stash@{0}  // after this CMD, git stash drop nlist
